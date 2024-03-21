@@ -1,7 +1,7 @@
 import { useTypingEffect } from '../../hooks/useTypingEffect'
 import Header from '../Header'
 import './hero.css'
-
+import video from '../../assets/universe-blue.mp4'
 function Hero() {
     const dev = useTypingEffect("Front-End Developer", 100)
 
@@ -9,7 +9,7 @@ function Hero() {
         <section className='hero'>
 
             <video autoPlay muted loop className="video-background">
-                <source src="src/assets/universe-blue.mp4" type="video/mp4" />
+                <source src={video} type="video/mp4" />
             </video>
 
             <Header />
