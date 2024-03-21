@@ -9,7 +9,7 @@ function Hero() {
         <section className='hero'>
 
             <video autoPlay muted loop className="video-background">
-                <source src="./src/assets/universe-blue.mp4" type="video/mp4" />
+                <source src="../src/assets/universe-blue.mp4" type="video/mp4" />
             </video>
 
             <Header />
