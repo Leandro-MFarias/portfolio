@@ -11,7 +11,6 @@ html {
 body {
     background-image: url(../assets/onda-blue.jpg);
     background-position: center;
-    background-repeat: space;
     font-family: var(--font-primary);
     font-size: var(--font-normal);
 }
@@ -51,7 +50,7 @@ body {
     transform: scale(1.2);
 }
 
-.social-midia a::first-line {
+.social-midia a:first-line {
     line-height: 65px;
 }
 
