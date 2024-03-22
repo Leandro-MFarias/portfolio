@@ -15,6 +15,7 @@ function Hero() {
             </video>
 
             <Header />
+            
             <div className="row align-item-center justify-content-center">
                 <div className="hero-text">
 

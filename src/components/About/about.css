@@ -1,0 +1,16 @@
+.about .full-screen {
+    min-height: 86vh;
+    padding: 50px 0;
+}
+
+.about .text-about{
+    letter-spacing: 2px;
+}
+
+.about .text-about,
+.about .img-about {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0 15px;
+}
+
