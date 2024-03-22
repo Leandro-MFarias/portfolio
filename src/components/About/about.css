@@ -14,3 +14,30 @@
     padding: 0 15px;
 }
 
+.about .img-about .img-box{
+    max-width: 450px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.about .img-about .img-box img {
+    width: 100%;
+    border-radius: 50%;
+    border: 10px solid transparent;
+}
+
+.about .text-about p {
+    font-family: var(--font-secondary);
+    font-size: var(--font-big);
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1280px) {
+    .about .text-about,
+    .about .img-about {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+        padding: var(--mobile-padding);
+    }
+}

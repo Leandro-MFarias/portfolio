@@ -35,7 +35,7 @@ function About() {
 
                     <div className="img-about">
                         <div className="img-box inner-shadow">
-                            <img src="./src/assets/minha-ce.png" alt="Foto de perfil" className="outer-shadow" />
+                            <img src="./src/assets/minha-branca-menor.png" alt="Foto de perfil" className="outer-shadow" />
                         </div>
                     </div>
                 </div>
