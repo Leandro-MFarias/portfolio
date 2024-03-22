@@ -9,7 +9,9 @@ html {
 }
 
 body {
-    background-color: var(--background-gray);
+    background-image: url(../assets/onda-blue.jpg);
+    background-position: center;
+    background-repeat: space;
     font-family: var(--font-primary);
     font-size: var(--font-normal);
 }
@@ -35,22 +37,22 @@ body {
 
 .social-midia a{
     display: inline-block;
-    width: 40px;
-    height: 40px;
-    font-size: 2rem;
+    width: 60px;
+    height: 60px;
+    font-size: 3rem;
     text-align: center;
-    margin: 0 6px;
-    margin-top: 5px;
+    margin: 0 10px;
+    margin-top: 20px;
     border-radius: 15px;
     transition: all 0.5s ease;
 }
 
 .social-midia a:hover {
-    transform: scale(1.3);
+    transform: scale(1.2);
 }
 
 .social-midia a::first-line {
-    line-height: 45px;
+    line-height: 65px;
 }
 
 .outer-shadow {

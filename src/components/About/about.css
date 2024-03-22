@@ -1,6 +1,16 @@
+.about {
+    max-height: 100vh;
+}
+
 .about .full-screen {
     min-height: 86vh;
     padding: 50px 0;
+}
+
+.about .flex-title h1 {
+    font-size: var(--font-biggest);
+    text-align: center;
+    padding: 40px;
 }
 
 .about .text-about{
@@ -38,6 +48,5 @@
         flex: 0 0 100%;
         max-width: 100%;
         text-align: center;
-        padding: var(--mobile-padding);
     }
 }

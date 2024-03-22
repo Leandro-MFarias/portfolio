@@ -7,19 +7,21 @@ import './about.css'
 
 function About() {
     return (
-        <section className="about">
+        <section className="about" id="about">
             <div className="container">
+                <div className="flex-title">
+                    <h1>Sobre Mim</h1>
+                </div>
+
                 <div className="row full-screen align-item-center justify-content-center">
                     <div className="img-about">
                         <div className="img-box inner-shadow">
-                            <img src="./src/assets/minha-branca-menor.png" alt="Foto de perfil" className="outer-shadow" />
+                            <img src="./src/assets/test.jpg" alt="Foto de perfil" className="outer-shadow" />
                         </div>
                     </div>
 
-
                     <div className="text-about">
-                        <p>Olá</p>
-                        <h1>Leandro Marinaci</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ipsa recusandae inventore id qui commodi, vero hic fuga enim eius, doloribus neque dolore temporibus sapiente. Animi sunt quos quae ratione.</p>
 
                         <div className="social-midia">
                             <a href="#" className="outer-shadow">

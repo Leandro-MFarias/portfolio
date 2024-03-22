@@ -27,7 +27,7 @@ function Hero() {
                     <div className='text-dev'>{dev}</div>
                 </div>
 
-                <a href="#about-me" className='arrow'>
+                <a href="#about" className='arrow'>
                     <MdOutlineKeyboardArrowDown />
                 </a>
             </div>
