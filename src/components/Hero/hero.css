@@ -33,7 +33,7 @@
     font-size: var(--font-big);
 }
 
-.hero-text h1 {
+.hero-text h2 {
     align-self: center;
     font-size: var(--font-biggest);
     font-weight: 600;
@@ -82,7 +82,7 @@
         font-size: var(--font-normal);
     }
 
-    .hero-text h1 {
+    .hero-text h2 {
         font-size: var(--font-large);
     }
 
@@ -96,7 +96,7 @@
     .hero-text .hero-span {
         margin-left: 0;
     }
-    .hero-text h1 {
+    .hero-text h2 {
         font-size: 3.5rem;
         text-align: center;
     }
@@ -108,7 +108,7 @@
 }
 
 @media (max-width: 452px) {
-    .hero-text h1,
+    .hero-text h2,
     .hero-text .text-dev {
         margin-right: 0;
         font-size: var(--font-big);

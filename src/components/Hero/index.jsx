@@ -23,7 +23,7 @@ function Hero() {
                         <span>Welcome,</span>
                         <span> I am</span>
                     </div>
-                    <h1>Leandro Farias</h1>
+                    <h2>Leandro Farias</h2>
                     <div className='text-dev'>{dev}</div>
                 </div>
 
