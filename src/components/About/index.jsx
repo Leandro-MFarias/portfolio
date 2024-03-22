@@ -30,19 +30,19 @@ function About() {
                         </p>
 
                         <div className="social-midia">
-                            <a href="#" className="outer-shadow">
+                            <a href="https://www.linkedin.com/in/leandro-farias-dev/" target="_blank" className="outer-shadow">
                                 <FaLinkedinIn />
                             </a>
 
-                            <a href="#" className="outer-shadow">
+                            <a href="https://github.com/Leandro-MFarias" target="_blank" className="outer-shadow">
                                 <FaGithub />
                             </a>
 
-                            <a href="#" className="outer-shadow">
+                            <a href="https://www.instagram.com/leandro_marinaci?igsh=bG1yaWZqeGhxazc=" target="_blank" className="outer-shadow">
                                 <FaInstagram />
                             </a>
 
-                            <a href="#" className="outer-shadow">
+                            <a href="#" target="_blank" className="outer-shadow">
                                 <FaWhatsapp />
                             </a>
                         </div>
