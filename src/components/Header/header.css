@@ -106,7 +106,7 @@
     bottom: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 782px) {
     .header {
         padding: var(--mobile-padding);
     }

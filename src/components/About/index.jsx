@@ -10,6 +10,13 @@ function About() {
         <section className="about">
             <div className="container">
                 <div className="row full-screen align-item-center justify-content-center">
+                    <div className="img-about">
+                        <div className="img-box inner-shadow">
+                            <img src="./src/assets/minha-branca-menor.png" alt="Foto de perfil" className="outer-shadow" />
+                        </div>
+                    </div>
+
+
                     <div className="text-about">
                         <p>Olá</p>
                         <h1>Leandro Marinaci</h1>
@@ -30,12 +37,6 @@ function About() {
                             <a href="#" className="outer-shadow">
                                 <FaWhatsapp />
                             </a>
-                        </div>
-                    </div>
-
-                    <div className="img-about">
-                        <div className="img-box inner-shadow">
-                            <img src="./src/assets/minha-branca-menor.png" alt="Foto de perfil" className="outer-shadow" />
                         </div>
                     </div>
                 </div>
