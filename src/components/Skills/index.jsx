@@ -18,7 +18,7 @@ function Skills() {
                 </div>
             </div>
 
-            <div className="container-skills">
+            <div className="row container-skills">
 
                 <div className="skill">
                     <div className="logo">
