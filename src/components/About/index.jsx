@@ -2,7 +2,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
-import perfil from '../../assets/test.jpg'
+import perfil from '../../assets/minha-menor.png'
 import './about.css'
 
 function About() {
@@ -10,7 +10,7 @@ function About() {
         <section className="about" id="about">
             <div className="container">
                 <div className="flex-title">
-                    <h1>Sobre Mim</h1>
+                    <h2>Sobre Mim</h2>
                 </div>
 
                 <div className="row full-screen align-item-center justify-content-center">
