@@ -3,8 +3,8 @@ import './button.css'
 function Button () {
     return (
         <div className="btn">
-            <a href="../../public/curriculo.pdf" className="button outer-shadow">
-                Baixar CV
+            <a target="_blank" href="../../public/curriculo.pdf"className="button outer-shadow">
+                Ver CV
             </a>
         </div>
     )

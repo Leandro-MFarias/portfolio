@@ -1,16 +1,35 @@
 import './skills.css'
+import { FaReact } from "react-icons/fa"
+import { IoLogoJavascript } from "react-icons/io5";
+import { FaGitAlt } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
+import { FaHtml5 } from "react-icons/fa";
+import { FaCss3Alt } from "react-icons/fa";
+import { SiJest } from "react-icons/si";
+import { FaNodeJs } from "react-icons/fa";
 
-function Skills () {
+
+function Skills() {
     return (
-        <section className='skills' id='skills'>
+        <section className='skills section' id='skills'>
             <div className="container">
-                <div className="flex-title">
-                    <h2>Skills</h2>
+                <div className="row">
+                    <div className="flex-title">
+                        <h2>Skills</h2>
+                    </div>
                 </div>
 
-                <div className="row align-item-center justify-content-center">
-                    <div className="skills-tst">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet iste earum, aut doloremque, ipsam nesciunt autem optio animi tempora, beatae quis sed. Quos nam deleniti at reprehenderit voluptatum reiciendis temporibus.</p>
+                <div className="row">
+                    {/* <div className="container-icons"></div> */}
+                    <div className="skill-icon">
+                        <FaReact className='icon' />
+                        <IoLogoJavascript className='icon' />
+                        <FaGitAlt className='icon' />
+                        <FaGithub className='icon' />
+                        <FaHtml5 className='icon' />
+                        <FaCss3Alt className='icon' />
+                        <SiJest className='icon' />
+                        <FaNodeJs className='icon' />
                     </div>
                 </div>
             </div>
@@ -19,5 +38,3 @@ function Skills () {
 }
 
 export default Skills
-
-// React, JavaScript, GIT, GitHub, HTML, CSS, Vite, Jest.

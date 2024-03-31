@@ -34,6 +34,7 @@ body {
     align-items: center;
 }
 
+
 .flex-title h2 {
     font-size: var(--font-biggest);
     text-align: center;
@@ -44,6 +45,7 @@ body {
     .flex-title h2 {
         padding: 30px 0 10px;
     }
+
 }
 
 .social-midia a{
@@ -72,4 +74,8 @@ body {
 
 .inner-shadow {
     box-shadow: inset 3px 3px 3px #222327, inset -3px -3px 3px #454545;
+}
+
+.section {
+    padding: 7rem 0 7rem;
 }

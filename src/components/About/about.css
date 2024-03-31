@@ -1,5 +1,5 @@
 .about {
-    max-height: 100vh;
+    min-height: 100vh;
 }
 
 .about .full-screen {
@@ -56,7 +56,6 @@
 
 @media (max-width: 968px) {
     .about .full-screen {
-        min-height: 86vh;
         padding: 20px 0;
     }
 
