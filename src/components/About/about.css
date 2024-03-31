@@ -61,6 +61,15 @@
 }
 
 @media (max-width: 800px) {
+    .about .full-screen {
+        min-height: 86vh;
+        padding: 20px 0;
+    }
+
+    .about .flex-title h1 {
+        padding: 30px 0 10px 0;
+    }
+
     .about .img-about {
         margin-bottom: 2rem;
     }
