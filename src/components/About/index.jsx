@@ -2,7 +2,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
-
+import perfil from '../../assets/test.jpg'
 import './about.css'
 
 function About() {
@@ -16,7 +16,7 @@ function About() {
                 <div className="row full-screen align-item-center justify-content-center">
                     <div className="img-about">
                         <div className="img-box inner-shadow">
-                            <img src="./src/assets/test.jpg" alt="Foto de perfil" className="outer-shadow" />
+                            <img src={perfil} className="outer-shadow" />
                         </div>
                     </div>
 
