@@ -13,7 +13,7 @@ function About() {
                     <h2>Sobre Mim</h2>
                 </div>
 
-                <div className="row full-screen align-item-center justify-content-center">
+                <div className="full-screen row align-item-center justify-content-center">
                     <div className="img-about">
                         <div className="img-box inner-shadow">
                             <img src={perfil} className="outer-shadow" />

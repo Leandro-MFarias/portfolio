@@ -2,11 +2,6 @@
     min-height: 100vh;
 }
 
-.about .full-screen {
-    min-height: 86vh;
-    padding: 50px 0;
-}
-
 .about .text-about{
     letter-spacing: 2px;
 }
@@ -33,11 +28,11 @@
 .about .text-about p {
     font-family: var(--font-secondary);
     font-size: var(--font-big);
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .about .text-about .social-midia {
-    margin-top: 20px;
+    margin-top: 2.5rem;
 }
 
 @media (max-width: 1280px) {
@@ -55,14 +50,9 @@
 }
 
 @media (max-width: 968px) {
-    .about .full-screen {
-        padding: 20px 0;
-    }
-
     .about .text-about .social-midia {
         margin-bottom: 20px;
     }
-
 }
 
 @media (max-width: 800px) {
