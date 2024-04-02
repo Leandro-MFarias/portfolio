@@ -18,7 +18,7 @@ function Projects () {
             <div className="container container-projects" id="projects">
 
                 <div className="project">
-                    <a href="#">
+                    <a href="https://leandro-portfolio-g7yw4yngh-leandros-projects-93f8007b.vercel.app/" target="_blank">
                         <img src={portfolio} alt="XXXXXXXXXX" />
                         <h3>Portfolio</h3>
                         <div className="info-project">
@@ -31,7 +31,7 @@ function Projects () {
                 </div>
 
                 <div className="project">
-                    <a href="#">
+                    <a href="https://leandro-mfarias.github.io/projeto-one-piece/" target="_blank">
                         <img src={onePiece} alt="XXXXXXXXXX" />
                         <h3>One Piece</h3>
                         <div className="info-project">
@@ -44,7 +44,7 @@ function Projects () {
                 </div>
 
                 <div className="project">
-                    <a href="#">
+                    <a href="https://leandro-mfarias.github.io/search-github-api/" target="_blank">
                         <img src={apiGithub} alt="XXXXXXXXXX" />
                         <h3>Api GitHub</h3>
                         <div className="info-project">
@@ -57,7 +57,7 @@ function Projects () {
                 </div>
 
                 <div className="project">
-                    <a href="#">
+                    <a href="https://leandro-mfarias.github.io/landing-page-agencia/" target="_blank">
                         <img src={agencia} alt="XXXXXXXXXX" />
                         <h3>Agência XYZ</h3>
                         <div className="info-project">
@@ -70,7 +70,7 @@ function Projects () {
                 </div>
 
                 <div className="project">
-                    <a href="#">
+                    <a href="https://leandro-mfarias.github.io/formulario/" target="_blank">
                         <img src={formulario} alt="XXXXXXXXXX" />
                         <h3>Formulário</h3>
                         <div className="info-project">
@@ -83,7 +83,7 @@ function Projects () {
                 </div>
 
                 <div className="project">
-                    <a href="#">
+                    <a href="https://leandro-mfarias.github.io/projeto-attack-on-titan/" target="_blank">
                         <img src={attackTitan} alt="XXXXXXXXXX" />
                         <h3>Attack On Titan</h3>
                         <div className="info-project">
