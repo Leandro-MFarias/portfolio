@@ -9,7 +9,7 @@ function Projects () {
                 </div>
             </div>
 
-            <div className="container container-projects">
+            <div className="container container-projects" id="projects">
 
                 <div className="project">
                     <a href="#">
