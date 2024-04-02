@@ -1,4 +1,10 @@
 import "./projects.css"
+import portfolio from '../../assets/portfolio.png'
+import onePiece from '../../assets/one-piece.png'
+import apiGithub from '../../assets/api-github.png'
+import agencia from '../../assets/agencia-xyz.png'
+import formulario from '../../assets/formulario.png'
+import attackTitan from '../../assets/attack-on-titan.png'
 
 function Projects () {
     return (
@@ -13,7 +19,7 @@ function Projects () {
 
                 <div className="project">
                     <a href="#">
-                        <img src="https://via.placeholder.com/515x700" alt="XXXXXXXXXX" />
+                        <img src={portfolio} alt="XXXXXXXXXX" />
                         <h3>Nome Projeto</h3>
                         <div className="info-project">
                             <p>
@@ -26,7 +32,7 @@ function Projects () {
 
                 <div className="project">
                     <a href="#">
-                        <img src="https://via.placeholder.com/515x700" alt="XXXXXXXXXX" />
+                        <img src={onePiece} alt="XXXXXXXXXX" />
                         <h3>Nome Projeto</h3>
                         <div className="info-project">
                             <p>
@@ -39,7 +45,7 @@ function Projects () {
 
                 <div className="project">
                     <a href="#">
-                        <img src="https://via.placeholder.com/515x700" alt="XXXXXXXXXX" />
+                        <img src={apiGithub} alt="XXXXXXXXXX" />
                         <h3>Nome Projeto</h3>
                         <div className="info-project">
                             <p>
@@ -52,7 +58,7 @@ function Projects () {
 
                 <div className="project">
                     <a href="#">
-                        <img src="https://via.placeholder.com/515x700" alt="XXXXXXXXXX" />
+                        <img src={agencia} alt="XXXXXXXXXX" />
                         <h3>Nome Projeto</h3>
                         <div className="info-project">
                             <p>
@@ -65,7 +71,7 @@ function Projects () {
 
                 <div className="project">
                     <a href="#">
-                        <img src="https://via.placeholder.com/515x700" alt="XXXXXXXXXX" />
+                        <img src={formulario} alt="XXXXXXXXXX" />
                         <h3>Nome Projeto</h3>
                         <div className="info-project">
                             <p>
@@ -78,7 +84,7 @@ function Projects () {
 
                 <div className="project">
                     <a href="#">
-                        <img src="https://via.placeholder.com/515x700" alt="XXXXXXXXXX" />
+                        <img src={attackTitan} alt="XXXXXXXXXX" />
                         <h3>Nome Projeto</h3>
                         <div className="info-project">
                             <p>
