@@ -5,8 +5,12 @@ import apiGithub from '../../assets/api-github.png'
 import agencia from '../../assets/agencia-xyz.png'
 import formulario from '../../assets/formulario.png'
 import attackTitan from '../../assets/attack-on-titan.png'
+import { FaHtml5 } from "react-icons/fa";
+import { FaCss3Alt } from "react-icons/fa";
+import { FaReact } from "react-icons/fa"
+import { IoLogoJavascript } from "react-icons/io5";
 
-function Projects () {
+function Projects() {
     return (
         <section className="Projects section">
             <div className="container">
@@ -22,9 +26,10 @@ function Projects () {
                         <img src={portfolio} alt="XXXXXXXXXX" />
                         <h3>Portfolio</h3>
                         <div className="info-project">
-                            <p>
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae
-                            </p>
+                            <FaReact className='icon' />
+                            <IoLogoJavascript className='icon' />
+                            <FaHtml5 className='icon' />
+                            <FaCss3Alt className='icon' />
                             <p>🔗Ver no Github Pages</p>
                         </div>
                     </a>
@@ -35,9 +40,9 @@ function Projects () {
                         <img src={onePiece} alt="XXXXXXXXXX" />
                         <h3>One Piece</h3>
                         <div className="info-project">
-                            <p>
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
-                            </p>
+                            <IoLogoJavascript className='icon' />
+                            <FaHtml5 className='icon' />
+                            <FaCss3Alt className='icon' />
                             <p>🔗Ver no Github Pages</p>
                         </div>
                     </a>
@@ -48,9 +53,9 @@ function Projects () {
                         <img src={apiGithub} alt="XXXXXXXXXX" />
                         <h3>Api GitHub</h3>
                         <div className="info-project">
-                            <p>
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
-                            </p>
+                            <IoLogoJavascript className='icon' />
+                            <FaHtml5 className='icon' />
+                            <FaCss3Alt className='icon' />
                             <p>🔗Ver no Github Pages</p>
                         </div>
                     </a>
@@ -61,9 +66,8 @@ function Projects () {
                         <img src={agencia} alt="XXXXXXXXXX" />
                         <h3>Agência XYZ</h3>
                         <div className="info-project">
-                            <p>
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
-                            </p>
+                            <FaHtml5 className='icon xyz' />
+                            <FaCss3Alt className='icon xyz' />
                             <p>🔗Ver no Github Pages</p>
                         </div>
                     </a>
@@ -74,9 +78,9 @@ function Projects () {
                         <img src={formulario} alt="XXXXXXXXXX" />
                         <h3>Formulário</h3>
                         <div className="info-project">
-                            <p>
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
-                            </p>
+                            <IoLogoJavascript className='icon' />
+                            <FaHtml5 className='icon' />
+                            <FaCss3Alt className='icon' />
                             <p>🔗Ver no Github Pages</p>
                         </div>
                     </a>
@@ -87,9 +91,9 @@ function Projects () {
                         <img src={attackTitan} alt="XXXXXXXXXX" />
                         <h3>Attack On Titan</h3>
                         <div className="info-project">
-                            <p>
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
-                            </p>
+                            <IoLogoJavascript className='icon' />
+                            <FaHtml5 className='icon' />
+                            <FaCss3Alt className='icon' />
                             <p>🔗Ver no Github Pages</p>
                         </div>
                     </a>
