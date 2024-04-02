@@ -1,3 +1,4 @@
+import Social from '../Social'
 import './footer.css'
 
 function Footer() {
@@ -7,7 +8,7 @@ function Footer() {
                 <h2>Leandro Marinaci</h2>
 
                 <div className="social-midia">
-                    
+                    <Social />
                 </div>
             </div>
         </section>
