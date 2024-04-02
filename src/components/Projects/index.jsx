@@ -20,7 +20,7 @@ function Projects () {
                 <div className="project">
                     <a href="#">
                         <img src={portfolio} alt="XXXXXXXXXX" />
-                        <h3>Nome Projeto</h3>
+                        <h3>Portfolio</h3>
                         <div className="info-project">
                             <p>
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae
@@ -33,7 +33,7 @@ function Projects () {
                 <div className="project">
                     <a href="#">
                         <img src={onePiece} alt="XXXXXXXXXX" />
-                        <h3>Nome Projeto</h3>
+                        <h3>One Piece</h3>
                         <div className="info-project">
                             <p>
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
@@ -46,7 +46,7 @@ function Projects () {
                 <div className="project">
                     <a href="#">
                         <img src={apiGithub} alt="XXXXXXXXXX" />
-                        <h3>Nome Projeto</h3>
+                        <h3>Api GitHub</h3>
                         <div className="info-project">
                             <p>
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
@@ -59,7 +59,7 @@ function Projects () {
                 <div className="project">
                     <a href="#">
                         <img src={agencia} alt="XXXXXXXXXX" />
-                        <h3>Nome Projeto</h3>
+                        <h3>Agência XYZ</h3>
                         <div className="info-project">
                             <p>
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
@@ -72,7 +72,7 @@ function Projects () {
                 <div className="project">
                     <a href="#">
                         <img src={formulario} alt="XXXXXXXXXX" />
-                        <h3>Nome Projeto</h3>
+                        <h3>Formulário</h3>
                         <div className="info-project">
                             <p>
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
@@ -85,7 +85,7 @@ function Projects () {
                 <div className="project">
                     <a href="#">
                         <img src={attackTitan} alt="XXXXXXXXXX" />
-                        <h3>Nome Projeto</h3>
+                        <h3>Attack On Titan</h3>
                         <div className="info-project">
                             <p>
                                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat, sed? Rem deleniti perspiciatis, in maxime exercitationem maiores, officia beatae, aliquid vel hic distinctio impedit velit repellendus. Alias amet laborum delectus.
