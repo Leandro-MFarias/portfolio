@@ -19,7 +19,7 @@ function Header() {
                                     <a href="#about" className='hover-animation'>Sobre Mim</a>
                                 </li>
                                 <li>
-                                    <a href="#skills" className='hover-animation'>Habilidades</a>
+                                    <a href="#skills" className='hover-animation'>Skills</a>
                                 </li>
                                 <li>
                                     <a href="#projects" className='hover-animation'>Projetos</a>

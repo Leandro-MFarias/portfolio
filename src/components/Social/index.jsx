@@ -18,7 +18,7 @@ function Social() {
                 <FaInstagram />
             </a>
 
-            <a href="#" target="_blank" className="outer-shadow">
+            <a href="https://wa.link/jsofvi" target="_blank" className="outer-shadow">
                 <FaWhatsapp />
             </a>
         </div>
