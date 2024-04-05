@@ -1,6 +1,8 @@
-.about {
-    min-height: 100vh;
-}
+/* .about {
+    background-image: var(--background);
+    background-size: cover;
+    background-attachment: fixed;
+} */
 
 .about .text-about{
     letter-spacing: 2px;

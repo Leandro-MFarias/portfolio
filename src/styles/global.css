@@ -9,8 +9,10 @@ html {
 }
 
 body {
-    background-image: url(../assets/onda-blue.jpg);
-    background-position: center;
+    /* background: var(--background) no-repeat;
+    background-size: cover;
+    background-attachment: fixed; */
+    background-color: #16171f;
     font-family: var(--font-primary);
     font-size: var(--font-normal);
 }

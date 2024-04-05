@@ -9,8 +9,8 @@ function App() {
     <>
       <Hero />
       <About />
-      <Skills />
       <Projects />
+      <Skills />
       <Footer />
     </>
   )

@@ -1,4 +1,4 @@
-import { useTypingEffect } from '../../hooks/useTypingEffect'
+import { TypeDev } from '../TypeAnimation'
 import Header from '../Header'
 import './hero.css'
 import video from '../../assets/universe-blue.mp4'
@@ -6,8 +6,6 @@ import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 
 
 function Hero() {
-    const dev = useTypingEffect("Front-End Developer", 100)
-
     return (
         <section className='hero'>
             <video autoPlay muted loop className="video-background">
@@ -24,7 +22,7 @@ function Hero() {
                         <span> I am</span>
                     </div>
                     <h2>Leandro Farias</h2>
-                    <div className='text-dev'>{dev}</div>
+                    <TypeDev />
                 </div>
 
                 <a href="#about" className='arrow'>

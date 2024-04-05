@@ -1,11 +1,15 @@
 import perfil from '../../assets/minha-menor.png'
 import './about.css'
+import useAos from '../../hooks/useAOS';
 import Social from "../Social";
 
+
 function About() {
+    useAos()
+    
     return (
         <section className="about section" id="about">
-            <div className="container">
+            <div className="container" data-aos='fade-right'>
                 <div className="flex-title">
                     <h2>Sobre Mim</h2>
                 </div>

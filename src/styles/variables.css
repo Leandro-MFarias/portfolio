@@ -17,5 +17,6 @@
 }
 
 :root {
+    --background: url('../assets/2.jpg');
     --mobile-padding: 55px;
 }

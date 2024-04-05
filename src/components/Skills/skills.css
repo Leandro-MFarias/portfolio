@@ -1,3 +1,8 @@
+/* .skills {
+    background-image: var(--background);
+    background-size: cover;
+} */
+
 .skills .container-skills {
     text-align: center;
     justify-content: center;
@@ -5,7 +10,7 @@
 
 .skills .container-skills .skill {
     max-width: 350px;
-    padding: 4rem 2rem;
+    padding: 7rem 2rem;
 }
 
 .skills .container-skills .skill p,
@@ -17,12 +22,13 @@
 .skills .container-skills .skill h3 {
     font-size: 3.5rem;
     font-weight: 500;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .skills .container-skills .skill p {
     font-size: 1.8rem;
     font-family: var(--font-secondary);
+    background-color: var(--bac);
 }
 
 .skills .container-skills .skill .logo .icon{
