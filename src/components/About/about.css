@@ -2,7 +2,7 @@
     background-image: var(--background);
 } */
 .about .container {
-    overflow: hidden;
+    max-width: 1140px;
 }
 .about .text-about{
     letter-spacing: 2px;

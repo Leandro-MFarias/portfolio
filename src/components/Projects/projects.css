@@ -1,16 +1,23 @@
 /* .projects {
     background-image: var(--background);
 } */
-.container {
+
+.projects .container .flex-title {
+    max-width: 1140px;
+    margin: 0 auto;
+} 
+
+.projects .container.container-projects {
+    max-width: 1540px;
     overflow: hidden;
 }
 
 .container-projects {
     display: grid;
-    grid-template-columns: repeat(2, 700px);
+    grid-template-columns: repeat(2, 680px);
     justify-content: center;
     column-gap: 10rem;
-    row-gap: 3rem;
+    row-gap: 4rem;
 }
 
 .projects .container .flex-title {
@@ -83,14 +90,7 @@
 
 @media (max-width: 1550px){ 
     .container-projects {
-        grid-template-columns: repeat(2, 600px);
-        column-gap: 5rem; 
-    }
-}
-
-@media (max-width: 1465px){ 
-    .container-projects {
-        grid-template-columns: repeat(2, 520px);
+        grid-template-columns: repeat(2, 640px);
         column-gap: 5rem; 
     }
 }
