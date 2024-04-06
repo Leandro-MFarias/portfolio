@@ -91,3 +91,9 @@
         max-width: 330px;
     }
 }
+
+@media (max-width: 430px) {
+    .about .img-about .img-box {
+        max-width: 280px;
+    }
+}
