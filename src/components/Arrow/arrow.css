@@ -1,0 +1,22 @@
+.arrow-up {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    padding: 6px;
+    border-radius: 100%;
+    cursor: pointer;
+    z-index: 1;
+    background-color: #666666;
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0;
+}
+
+.visible {
+    opacity: 1;
+}
+
+.arrow {
+    font-size: 2.2rem;
+    color: var(--white-color);
+}
+
