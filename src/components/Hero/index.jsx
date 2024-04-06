@@ -16,12 +16,7 @@ function Hero() {
             
             <div className="row align-item-center justify-content-center">
                 <div className="hero-text">
-
-                    <div className="hero-span">
-                        <span>Welcome,</span>
-                        <span> I am</span>
-                    </div>
-                    <h2>Leandro Farias</h2>
+                    <h2>Hey, I'm Leandro Farias</h2>
                     <TypeDev />
                 </div>
 

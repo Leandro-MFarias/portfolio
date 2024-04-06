@@ -1,6 +1,5 @@
 /* .projects {
     background-image: var(--background);
-    background-size: cover;
 } */
 
 .container-projects {
@@ -9,6 +8,10 @@
     justify-content: center;
     column-gap: 10rem;
     row-gap: 3rem;
+}
+
+.projects .container .flex-title {
+    flex-direction: row;
 }
 
 .container-projects .project {
@@ -78,6 +81,13 @@
 @media (max-width: 1550px){ 
     .container-projects {
         grid-template-columns: repeat(2, 600px);
+        column-gap: 5rem; 
+    }
+}
+
+@media (max-width: 1465px){ 
+    .container-projects {
+        grid-template-columns: repeat(2, 520px);
         column-gap: 5rem; 
     }
 }

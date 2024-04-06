@@ -20,7 +20,8 @@ function Projects() {
         <section className="projects section">
             <div className="container" data-aos='fade-right'>
                 <div className="flex-title">
-                    <h2>Projetos</h2>
+                    <div className='line-title'></div>
+                    <h2>Projects<b>.</b></h2>
                 </div>
             </div>
 

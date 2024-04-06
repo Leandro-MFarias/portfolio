@@ -37,7 +37,7 @@
     font-size: var(--font-biggest);
     font-weight: 600;
     letter-spacing: 3px;
-    margin-right: 9rem;
+    margin-right: 12rem;
 }
 
 .hero-text .text-dev {
@@ -45,7 +45,6 @@
     font-size: var(--font-biggest);
     font-weight: 500;
     letter-spacing: 1px;
-
 }
 
 .hero .arrow {

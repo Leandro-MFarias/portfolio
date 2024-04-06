@@ -16,13 +16,13 @@ function Header() {
 
                             <ul>
                                 <li>
-                                    <a href="#about" className='hover-animation'>Sobre Mim</a>
+                                    <a href="#about" className='hover-animation'>About</a>
                                 </li>
                                 <li>
                                     <a href="#skills" className='hover-animation'>Skills</a>
                                 </li>
                                 <li>
-                                    <a href="#projects" className='hover-animation'>Projetos</a>
+                                    <a href="#projects" className='hover-animation'>Projects</a>
                                 </li>
                             </ul>
                         </nav>

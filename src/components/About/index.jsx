@@ -6,12 +6,13 @@ import Social from "../Social";
 
 function About() {
     useAos()
-    
+
     return (
         <section className="about section" id="about">
             <div className="container" data-aos='fade-right'>
                 <div className="flex-title">
-                    <h2>Sobre Mim</h2>
+                    <div className='line-title'></div>
+                    <h2>About<b>.</b></h2>
                 </div>
 
                 <div className="full-screen row align-item-center justify-content-center">
@@ -31,7 +32,7 @@ function About() {
                         </p>
 
                         <Social />
-                        
+
                     </div>
                 </div>
 

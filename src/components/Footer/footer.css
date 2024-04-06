@@ -4,10 +4,13 @@
     padding: 5rem 0;
 }
 
-.footer h2 {
-    font-family: var(--font-secondary);
-    font-size: 3.2rem;
+.footer .container .flex-title {
+    justify-content: center;
+}
+
+.footer .flex-title h2 {
+    font-size: 7rem;
     font-weight: 700;
     letter-spacing: 2px;
-    margin-bottom: 2rem;
+    margin-bottom: 1.4rem;
 }

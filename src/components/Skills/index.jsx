@@ -18,7 +18,9 @@ function Skills() {
         <section className='skills section' id='skills'>
             <div className="container" data-aos='zoom-in-up'>
                 <div className="flex-title">
-                    <h2>Skills</h2>
+                    <div className='line-title'></div>
+                    <h2>Skills<b>.</b></h2>
+                    <div className='line-title'></div>
                 </div>
             </div>
 

@@ -5,7 +5,10 @@ function Footer() {
     return (
         <section className='footer'>
             <div className="container">
-                <h2>Leandro Marinaci</h2>
+                <div className="flex-title">
+                    <h2>Contact<b>.</b></h2>
+                </div>
+                
 
                 <div className="social-midia">
                     <Social />

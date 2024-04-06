@@ -1,9 +1,9 @@
 /* .about {
     background-image: var(--background);
-    background-size: cover;
-    background-attachment: fixed;
 } */
-
+.about .container {
+    overflow: hidden;
+}
 .about .text-about{
     letter-spacing: 2px;
 }
@@ -34,7 +34,7 @@
 }
 
 .about .text-about .social-midia {
-    margin-top: 2.5rem;
+    margin-top: 2rem;
 }
 
 @media (max-width: 1280px) {
