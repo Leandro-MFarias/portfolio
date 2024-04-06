@@ -1,6 +1,9 @@
 /* .projects {
     background-image: var(--background);
 } */
+.container {
+    overflow: hidden;
+}
 
 .container-projects {
     display: grid;

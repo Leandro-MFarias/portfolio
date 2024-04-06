@@ -3,7 +3,6 @@ import './about.css'
 import useAos from '../../hooks/useAOS';
 import Social from "../Social";
 
-
 function About() {
     useAos()
 
