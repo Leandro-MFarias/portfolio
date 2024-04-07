@@ -4,7 +4,8 @@
 .about .container {
     max-width: 1140px;
 }
-.about .text-about{
+
+.about .text-about {
     letter-spacing: 2px;
 }
 
@@ -15,7 +16,7 @@
     padding: 0 15px;
 }
 
-.about .img-about .img-box{
+.about .img-about .img-box {
     max-width: 450px;
     border-radius: 50%;
     margin: auto;
@@ -24,7 +25,6 @@
 .about .img-about .img-box img {
     width: 100%;
     border-radius: 50%;
-    border: 10px solid transparent;
 }
 
 .about .text-about p {
@@ -38,6 +38,7 @@
 }
 
 @media (max-width: 1280px) {
+
     .about .text-about,
     .about .img-about {
         flex: 0 0 100%;
