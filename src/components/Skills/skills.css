@@ -23,7 +23,7 @@
 }
 
 .skills .container-skills .skill h3 {
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-weight: 500;
     margin-bottom: 1rem;
 }
@@ -35,5 +35,42 @@
 }
 
 .skills .container-skills .skill .logo .icon{
-    font-size: 8rem;
+    font-size: 6.4rem;
+    transition: 0.4s ease;
+}
+
+.skills .container-skills .skill .logo .icon:hover {
+    transform: scale(1.2);
+}
+
+.skills .container-skills .skill .react {
+    color:#74C0FC;
+}
+
+.skills .container-skills .skill .js {
+    color: #FFD43B;
+}
+
+.skills .container-skills .skill .git {
+    color: #f64d27;
+}
+
+.skills .container-skills .skill .hub {
+    color: #9102de;
+}
+
+.skills .container-skills .skill .html {
+    color: #fd610d;
+}
+
+.skills .container-skills .skill .css {
+    color: #0830d4;
+}
+
+.skills .container-skills .skill .jest {
+    color: #99425b;
+}
+
+.skills .container-skills .skill .node {
+    color: #4baa5c;
 }

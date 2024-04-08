@@ -28,81 +28,81 @@ function Skills() {
 
                 <div className="skill">
                     <div className="logo">
-                        <FaReact className='icon' />
+                        <FaHtml5 className='icon html' />
                     </div>
-                    <h3>React</h3>
+                    <h3 className='html'>HTML5</h3>
                     <p>
-                        O React é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+                        Tenho um domínio sólido em HTML, considerado a base do desenvolvimento web. Sempre busco por manter o código limpo, semântico e acessível, utilizando as tags adequadas para cada tipo de conteúdo.
                     </p>
                 </div>
 
                 <div className="skill">
                     <div className="logo">
-                        <IoLogoJavascript className='icon' />
+                        <FaCss3Alt className='icon css' />
                     </div>
-                    <h3>JavaScript</h3>
+                    <h3 className='css'>CSS3</h3>
                     <p>
-                        JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+                        Tenho familiaridade com as propriedades e valores do CSS, o que me possibilita posicionar elementos na tela utilizando técnicas como Flexbox e Grid. Além disso, consigo desenvolver layouts responsivos para diferentes tamanhos de tela e estilizar os elementos da página conforme as exigências de design. Com o CSS, consigo criar designs visualmente atrativos e proporcionar uma experiência confortável para o usuário.
                     </p>
                 </div>
 
                 <div className="skill">
                     <div className="logo">
-                        <FaGitAlt className='icon' />
+                        <IoLogoJavascript className='icon js' />
                     </div>
-                    <h3>GIT</h3>
+                    <h3 className='js'>JavaScript</h3>
                     <p>
-                        GIT é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+                        Estou confortável utilizando JavaScript e familiarizado com as últimas práticas e padrões da linguagem, tais como arrow functions, destructuring e async/await. Tenho experiência na utilização de eventos, estruturas de repetição, manipulação do DOM e integração de APIs no desenvolvimento de projetos.
                     </p>
                 </div>
 
                 <div className="skill">
                     <div className="logo">
-                        <FaGithub className='icon' />
+                        <FaReact className='icon react' />
                     </div>
-                    <h3>GitHub</h3>
+                    <h3 className='react'>React JS</h3>
                     <p>
-                        GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+                        Tenho um conhecimento sólido em React e da sintaxe JSX, incluindo conceitos fundamentais como componentes, props, state e hooks. Desenvolvi projetos pessoais utilizando React, incluindo a contrução deste portfólio. Estou familiarizado com ferramentas populares como Redux e Styled Components.
                     </p>
                 </div>
 
                 <div className="skill">
                     <div className="logo">
-                        <FaHtml5 className='icon' />
+                        <FaGitAlt className='icon git' />
                     </div>
-                    <h3>HTML5</h3>
+                    <h3 className='git'>GIT</h3>
                     <p>
-                        HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.
+                        Utilizo Git regularmente para controle de versionamento de projetos. Estou familiarizado com os comandos básicos e utilizo plataformas de hospedagem como GitHub para colaboração e compartilhamento de código.
                     </p>
                 </div>
 
                 <div className="skill">
                     <div className="logo">
-                        <FaCss3Alt className='icon' />
+                        <FaGithub className='icon hub' />
                     </div>
-                    <h3>CSS3</h3>
+                    <h3 className='hub'>GitHub</h3>
                     <p>
-                        CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense na decoração da sua página.
+                        Utilizo o GitHub para hospedar meus projetos, garantindo a segurança do armazenamento dos meus códigos. Estou habituado a criar repositórios, fazer clones e também subir meus projetos pessoais para o GitHub Pages.
                     </p>
                 </div>
 
                 <div className="skill">
                     <div className="logo">
-                        <SiJest className='icon' />
+                        <SiJest className='icon jest' />
                     </div>
-                    <h3>Jest</h3>
+                    <h3 className='jest'>Jest</h3>
                     <p>
-                        Jest é um framework de teste em JavaScript projetado para garantir a correção de qualquer código JavaScript. Ele permite que você escreva testes com uma API acessível, familiar e rica em recursos que lhe dá resultados rapidamente.
+                        Estrutura de teste de JavaScript amplamente utilizada. Com o Jest, posso escrever testes unitários e de integração de forma eficaz para garantir a qualidade do meu código.
                     </p>
                 </div>
 
                 <div className="skill">
                     <div className="logo">
-                        <FaNodeJs className='icon' />
+                        <FaNodeJs className='icon node' />
                     </div>
-                    <h3>NodeJs</h3>
+                    <h3 className='node'>Node.Js</h3>
                     <p>
-                        Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos.
+                        Uso o Node.js para criar aplicações web escaláveis e eficientes no lado do servidor. Estou familiarizado com a manipulação de arquivos, bancos de dados e tarefas assíncronas no Node.js.
                     </p>
                 </div>
             </div>
