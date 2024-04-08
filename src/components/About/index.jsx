@@ -23,11 +23,15 @@ function About() {
 
                     <div className="text-about">
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ipsa recusandae inventore id qui commodi, vero hic fuga enim eius, doloribus neque dolore temporibus sapiente. Animi sunt quos quae ratione.
+                            Olá! Me chamo Leandro, sou um ex-jogador de basquete e estou em transição para me tornar um programador frontend. Descobri a área de programação por meio de amigos e me apaixonei pelo desafio e pela criatividade. Estou totalmente dedicado ao mundo da tecnologia agora e confiante de que posso contribuir significativamente em qualquer equipe com minhas habilidades.
                         </p>
 
                         <p>
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio earum quae sit amet, saepe recusandae delectus provident quisquam, corporis sed nisi quos quidem reiciendis autem dolorem. Dolorum non totam eligendi!
+                            Estou constantemente buscando novos projetos para me desafiar e aprimorar minhas habilidades. Participo de comunidades online em busca de feedback construtivo e estou sempre buscando me manter atualizado com as tecnologias mais recentes. No momento, estou focado em aprender TypeScript.
+                        </p>
+
+                        <p>
+                            Além disso, gosto de passar meu tempo livre assistindo a séries, filmes e animes, e também jogando algumas coisinhas. 😅
                         </p>
 
                         <Social />
