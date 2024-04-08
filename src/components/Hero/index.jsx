@@ -1,7 +1,7 @@
+import video from '../../assets/universe-blue.mp4'
 import { TypeDev } from '../TypeAnimation'
 import Header from '../Header'
 import './hero.css'
-import video from '../../assets/universe-blue.mp4'
 import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 
 
