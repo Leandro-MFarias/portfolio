@@ -24,6 +24,9 @@ function Header() {
                                 <li>
                                     <a href="#projects" className='hover-animation'>Projects</a>
                                 </li>
+                                <li>
+                                    <a href="#contact" className='hover-animation'>Contact</a>
+                                </li>
                             </ul>
                         </nav>
                     </div>
