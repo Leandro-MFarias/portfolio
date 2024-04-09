@@ -4,7 +4,7 @@ import 'aos/dist/aos.css'
 
 function useAos () {
     useEffect(() => {
-        Aos.init({ duration: '1500', easing: 'ease', delay: '240'})
+        Aos.init({ duration: '1500',easing: 'ease', delay: '260'})
 
         return () => {
             Aos.refreshHard()

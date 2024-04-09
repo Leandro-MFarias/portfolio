@@ -4,13 +4,21 @@
     padding: 5rem 0;
 }
 
+.footer .container {
+    max-width: 1140px;
+}
+
 .footer .container .flex-title {
     justify-content: center;
+    padding: 1rem;
 }
 
 .footer .flex-title h2 {
     font-size: 7rem;
     font-weight: 700;
     letter-spacing: 2px;
-    margin-bottom: 1.4rem;
+}
+
+.footer .container .social-midia {
+    padding: 2rem 0;
 }
