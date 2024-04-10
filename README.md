@@ -20,3 +20,5 @@
 </div>
 
 ### 📸 Preview
+
+<img src="src/assets/portfolio.png">
