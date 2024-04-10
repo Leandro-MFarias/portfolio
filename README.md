@@ -21,4 +21,4 @@
 
 ### 📸 Preview
 
-<img src="src/assets/portfolio.png">
+<img src="src/assets/readme.gif">
