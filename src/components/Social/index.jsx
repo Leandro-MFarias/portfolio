@@ -17,10 +17,6 @@ function Social() {
             <a href="https://www.instagram.com/leandro_marinaci?igsh=bG1yaWZqeGhxazc=" target="_blank" className="inner-social">
                 <FaInstagram />
             </a>
-
-            <a href="https://wa.link/jsofvi" target="_blank" className="inner-social">
-                <FaWhatsapp />
-            </a>
         </div>
     )
 }

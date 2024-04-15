@@ -20,5 +20,7 @@
 }
 
 @media (max-width: 425px) {
-
+    .footer .flex-title h2 {
+        font-size: 4.3rem;
+    }
 }
