@@ -12,7 +12,7 @@ function Footer() {
                     <h2>Contact<b>.</b></h2>
                 </div>
 
-                <Social />
+                <Social className='social-footer'/>
             </div>
         </section>
     )

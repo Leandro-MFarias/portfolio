@@ -123,3 +123,9 @@ body {
 .section {
     padding: 7rem 0 7rem;
 }
+
+@media (max-width: 425px) {
+    .section {
+        padding: 20rem 0 20rem;
+    }
+}

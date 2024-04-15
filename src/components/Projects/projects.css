@@ -145,7 +145,7 @@
 
 @media (max-width: 426px) {
     .container-projects {
-        grid-template-columns: repeat(1, 370px);
-
+        grid-template-columns: repeat(1, 350px);
+        padding-right: 1rem;
     }
 }
