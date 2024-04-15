@@ -120,8 +120,30 @@ body {
     box-shadow: inset 3px 3px 3px #707070, inset -3px -3px 3px #454545;
 }
 
+.btn-email {
+    width: 60px;
+    height: 60px;
+    font-size: 3rem;
+    background: transparent;
+    color: #fff;
+    border-radius: 15px;
+    margin: 0 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+
+.btn-email:hover {
+    transform: scale(1.2);
+}
+
 .section {
     padding: 7rem 0 7rem;
+}
+
+@media (max-width: 1366px) {
+    .section {
+        padding: 15rem 0 15rem;
+    }
 }
 
 @media (max-width: 425px) {

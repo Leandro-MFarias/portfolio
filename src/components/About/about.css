@@ -1,6 +1,7 @@
-/* .about {
-    background-image: var(--background);
-} */
+.about {
+    min-height: 89vh;
+}
+
 .about .container {
     max-width: 1140px;
 }

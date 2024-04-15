@@ -1,6 +1,7 @@
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
 
 
 function Social() {
@@ -17,6 +18,11 @@ function Social() {
             <a href="https://www.instagram.com/leandro_marinaci?igsh=bG1yaWZqeGhxazc=" target="_blank" className="inner-social">
                 <FaInstagram />
             </a>
+
+            <button className="inner-social btn-email" id="btn-email">
+                <MdEmail />
+            </button>
+
         </div>
     )
 }

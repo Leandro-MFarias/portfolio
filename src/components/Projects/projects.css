@@ -1,6 +1,6 @@
-/* .projects {
-    background-image: var(--background);
-} */
+.projects {
+    min-height: 89vh;
+}
 
 .projects .container .flex-title {
     max-width: 1140px;
