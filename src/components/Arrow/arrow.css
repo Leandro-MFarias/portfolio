@@ -20,3 +20,9 @@
     color: var(--white-color);
 }
 
+@media (max-width: 425px) {
+    .arrow {
+        font-size: 1.5rem;
+    }
+}
+
