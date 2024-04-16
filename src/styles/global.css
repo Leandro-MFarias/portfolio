@@ -86,7 +86,10 @@ body {
 }
 
 .social-midia {
-    padding-top: 1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2.2rem;
 }
 
 .social-midia a {
@@ -96,7 +99,7 @@ body {
     font-size: 3rem;
     text-align: center;
     margin: 0 10px;
-    margin-top: 20px;
+    
     border-radius: 15px;
     transition: all 0.5s ease;
 }
@@ -105,7 +108,7 @@ body {
     transform: scale(1.2);
 }
 
-.social-midia a:first-line {
+.social-midia a {
     line-height: 65px;
 }
 
@@ -127,13 +130,14 @@ body {
     position: relative;
     width: 60px;
     height: 60px;
-    font-size: 3rem;
+    font-size: 3.2rem;
     background: transparent;
     color: #fff;
     border-radius: 15px;
     margin: 0 10px;
     transition: 0.5s ease;
     cursor: pointer;
+    line-height: 4px;
 }
 
 .btn-email:hover {
@@ -143,7 +147,7 @@ body {
 .btn-email .tooltip {
     position: absolute;
     left: 9px;
-    bottom: 6rem;
+    bottom: 6.3rem;
     padding: 4px 8px;
     color: #ececec;
     font-size: small;

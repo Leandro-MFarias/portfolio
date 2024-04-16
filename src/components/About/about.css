@@ -73,14 +73,17 @@
         margin: 10px 40px;
     }
 
-    .about .text-about .social-midia {
-        margin-bottom: 10px;
-    }
-
     .about .text-about .social-midia a {
         width: 50px;
         height: 50px;
         font-size: 2.5rem;
+    }
+
+    .about .text-about .social-midia .btn-email {
+        width: 52px;
+        height: 52px;
+        font-size: 2.5rem;
+        line-height: 55px;
     }
 
     .about .text-about .social-midia a:first-line {

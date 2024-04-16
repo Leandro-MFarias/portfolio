@@ -1,7 +1,11 @@
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+
 import { MdEmail } from "react-icons/md";
+import { MdOutlineEmail } from "react-icons/md";
+
+
 import { copyToClipboard } from "./copyToClipboard";
 import { useState } from "react";
 
@@ -35,7 +39,7 @@ function Social() {
 
             <button className="inner-social btn-email" id="btn-email" onClick={handleOnClick}>
                 <div className={copied}>{tooltipText}</div>
-                <MdEmail />
+                <MdOutlineEmail className="icon-email" />
             </button>
 
         </div>
