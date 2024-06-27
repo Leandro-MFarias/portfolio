@@ -1,4 +1,4 @@
-import video from '../../assets/tst3.gif'
+import video from '../../assets/bed-room.gif'
 import { TypeDev } from '../TypeAnimation'
 import Header from '../Header'
 import './hero.css'
