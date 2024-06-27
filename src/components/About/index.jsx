@@ -31,7 +31,7 @@ function About() {
                         </p>
 
                         <p>
-                            Além disso, gosto de passar meu tempo livre assistindo a séries, filmes e animes, e também jogando algumas coisinhas. 😅
+                            Além disso, gosto de passar meu tempo livre assistindo a séries, filmes e também jogando algumas coisinhas. 😅
                         </p>
 
                         <Social />
