@@ -4,7 +4,7 @@ import useAos from "../../hooks/useAOS"
 import portfolio from '../../assets/portfolio.png'
 import onePiece from '../../assets/one-piece.png'
 import apiGithub from '../../assets/api-github.png'
-import agencia from '../../assets/agencia-xyz.png'
+import ecommerce from '../../assets/ecommerce-soldas.png'
 import formulario from '../../assets/formulario.png'
 import attackTitan from '../../assets/attack-on-titan.png'
 
@@ -12,6 +12,8 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { FaReact } from "react-icons/fa"
 import { IoLogoJavascript } from "react-icons/io5";
+import { BiLogoTypescript } from "react-icons/bi";
+
 
 function Projects() {
     useAos()
@@ -42,6 +44,19 @@ function Projects() {
                 </div>
 
                 <div className="project" data-aos='fade-left'>
+                    <a href="https://e-commerce-facul.vercel.app/" target="_blank">
+                        <img src={ecommerce} alt="XXXXXXXXXX" />
+                        <h3>CBS Soldas/E-Commerce</h3>
+                        <div className="info-project">
+                            <FaReact className="icon"/>
+                            <BiLogoTypescript className="icon"/>
+                            <FaCss3Alt className='icon' />
+                            <p>🔗Ver no Github Pages</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div className="project" data-aos='fade-left'>
                     <a href="https://leandro-mfarias.github.io/projeto-one-piece/" target="_blank">
                         <img src={onePiece} alt="XXXXXXXXXX" />
                         <h3>One Piece</h3>
@@ -62,18 +77,6 @@ function Projects() {
                             <IoLogoJavascript className='icon' />
                             <FaHtml5 className='icon' />
                             <FaCss3Alt className='icon' />
-                            <p>🔗Ver no Github Pages</p>
-                        </div>
-                    </a>
-                </div>
-
-                <div className="project" data-aos='fade-left'>
-                    <a href="https://leandro-mfarias.github.io/landing-page-agencia/" target="_blank">
-                        <img src={agencia} alt="XXXXXXXXXX" />
-                        <h3>Agência XYZ</h3>
-                        <div className="info-project">
-                            <FaHtml5 className='icon xyz' />
-                            <FaCss3Alt className='icon xyz' />
                             <p>🔗Ver no Github Pages</p>
                         </div>
                     </a>
