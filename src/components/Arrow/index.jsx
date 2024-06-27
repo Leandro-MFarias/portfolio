@@ -33,8 +33,8 @@ function Arrow() {
         <button
             className={`arrow-up ${isVisible ? 'visible' : ''}`}
             id='arrow-up'
-            onClick={scrollToTop}>
-
+            onClick={scrollToTop}
+            aria-label='arrow-up'>
             <IoIosArrowUp className='arrow' />
         </button>
     )
