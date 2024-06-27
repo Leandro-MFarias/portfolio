@@ -9,6 +9,7 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { SiJest } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
+import { BiLogoTypescript } from "react-icons/bi";
 
 
 function Skills() {
@@ -83,6 +84,16 @@ function Skills() {
                     <h3 className='hub'>GitHub</h3>
                     <p>
                         Utilizo o GitHub para hospedar meus projetos, garantindo a segurança do armazenamento dos meus códigos. Estou habituado a criar repositórios, fazer clones e também subir meus projetos pessoais para o GitHub Pages.
+                    </p>
+                </div>
+
+                <div className="skill">
+                    <div className="logo">
+                        <BiLogoTypescript className='icon css' />
+                    </div>
+                    <h3 className='css'>TypeScript</h3>
+                    <p>
+                        Tenho experiência em TypeScript, o que me permite adicionar tipagem estática aos meus projetos JavaScript, aumentando a robustez e a manutenção do código. Utilizo TypeScript em conjunto com frameworks como React para desenvolvimento de aplicações web escaláveis e de alta qualidade.
                     </p>
                 </div>
 
