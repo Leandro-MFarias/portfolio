@@ -1,4 +1,4 @@
-import video from '../../assets/universe-blue.mp4'
+import video from '../../assets/tst3.gif'
 import { TypeDev } from '../TypeAnimation'
 import Header from '../Header'
 import './hero.css'
@@ -8,9 +8,8 @@ import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 function Hero() {
     return (
         <section className='hero'>
-            <video autoPlay muted loop className="video-background">
-                <source src={video} type="video/mp4" />
-            </video>
+
+            <img src={video} className="video-background" alt="pixel art gif" />
 
             <Header />
             

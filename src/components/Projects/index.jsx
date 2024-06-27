@@ -31,7 +31,7 @@ function Projects() {
 
                 <div className="project" data-aos='fade-right'>
                     <a href="https://leandro-portfolio-q97i1i4jr-leandros-projects-93f8007b.vercel.app/" target="_blank">
-                        <img src={portfolio} alt="XXXXXXXXXX" />
+                        <img src={portfolio} alt="Projeto Portfolio" />
                         <h3>Portfolio</h3>
                         <div className="info-project">
                             <FaReact className='icon' />
@@ -45,7 +45,7 @@ function Projects() {
 
                 <div className="project" data-aos='fade-left'>
                     <a href="https://e-commerce-facul.vercel.app/" target="_blank">
-                        <img src={ecommerce} alt="XXXXXXXXXX" />
+                        <img src={ecommerce} alt="Projeto Ecommerce" />
                         <h3>CBS Soldas/E-Commerce</h3>
                         <div className="info-project">
                             <FaReact className="icon"/>
@@ -58,7 +58,7 @@ function Projects() {
 
                 <div className="project" data-aos='fade-left'>
                     <a href="https://leandro-mfarias.github.io/projeto-one-piece/" target="_blank">
-                        <img src={onePiece} alt="XXXXXXXXXX" />
+                        <img src={onePiece} alt="Projeto One Piece" />
                         <h3>One Piece</h3>
                         <div className="info-project">
                             <IoLogoJavascript className='icon' />
@@ -71,7 +71,7 @@ function Projects() {
 
                 <div className="project" data-aos='fade-right'>
                     <a href="https://leandro-mfarias.github.io/search-github-api/" target="_blank">
-                        <img src={apiGithub} alt="XXXXXXXXXX" />
+                        <img src={apiGithub} alt="Projeto API GitHub" />
                         <h3>Api GitHub</h3>
                         <div className="info-project">
                             <IoLogoJavascript className='icon' />
@@ -84,7 +84,7 @@ function Projects() {
 
                 <div className="project" data-aos='fade-right'>
                     <a href="https://leandro-mfarias.github.io/formulario/" target="_blank">
-                        <img src={formulario} alt="XXXXXXXXXX" />
+                        <img src={formulario} alt="Projeto Formulario" />
                         <h3>Formulário</h3>
                         <div className="info-project">
                             <IoLogoJavascript className='icon' />
@@ -97,7 +97,7 @@ function Projects() {
 
                 <div className="project" data-aos='fade-left'>
                     <a href="https://leandro-mfarias.github.io/projeto-attack-on-titan/" target="_blank">
-                        <img src={attackTitan} alt="XXXXXXXXXX" />
+                        <img src={attackTitan} alt="Projeto attack on titan" />
                         <h3>Attack On Titan</h3>
                         <div className="info-project">
                             <IoLogoJavascript className='icon' />

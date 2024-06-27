@@ -17,7 +17,7 @@ function About() {
                 <div className="full-screen row align-item-center justify-content-center">
                     <div className="img-about">
                         <div className="img-box inner-shadow">
-                            <img src={perfil} />
+                            <img src={perfil} alt='foto selfie'/>
                         </div>
                     </div>
 
