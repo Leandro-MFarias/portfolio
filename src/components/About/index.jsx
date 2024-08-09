@@ -1,4 +1,4 @@
-import perfil from '../../assets/minha-menor.png'
+import perfil from '../../assets/foto-att1.jpg'
 import './about.css'
 import useAos from '../../hooks/useAOS';
 import Social from "../Social";
