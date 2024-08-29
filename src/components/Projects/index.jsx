@@ -30,7 +30,7 @@ function Projects() {
             <div className="container container-projects" id="projects">
 
                 <div className="project" data-aos='fade-right'>
-                    <a href="https://leandro-portfolio-q97i1i4jr-leandros-projects-93f8007b.vercel.app/" target="_blank">
+                    <a href="https://leandro-portfolio-topaz.vercel.app/" target="_blank">
                         <img src={portfolio} alt="Projeto Portfolio" />
                         <h3>Portfolio</h3>
                         <div className="info-project">
