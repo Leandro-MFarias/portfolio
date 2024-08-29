@@ -27,7 +27,7 @@ function About() {
                         </p>
 
                         <p>
-                            Estou constantemente buscando novos projetos para me desafiar e aprimorar minhas habilidades. Participo de comunidades online em busca de feedback construtivo e estou sempre buscando me manter atualizado com as tecnologias mais recentes. No momento, estou focado em aprender TypeScript.
+                            Estou constantemente buscando novos projetos para me desafiar e aprimorar minhas habilidades. Participo de comunidades online em busca de feedback construtivo e estou sempre buscando me manter atualizado com as tecnologias mais recentes. No momento, estou iniciando os estudos do Backend.
                         </p>
 
                         <p>

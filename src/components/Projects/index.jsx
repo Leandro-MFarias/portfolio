@@ -6,7 +6,7 @@ import onePiece from '../../assets/one-piece.png'
 import apiGithub from '../../assets/api-github.png'
 import ecommerce from '../../assets/ecommerce-soldas.png'
 import formulario from '../../assets/formulario.png'
-import attackTitan from '../../assets/attack-on-titan.png'
+import todo from '../../assets/to-do-list.png'
 
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
@@ -96,12 +96,12 @@ function Projects() {
                 </div>
 
                 <div className="project" data-aos='fade-left'>
-                    <a href="https://leandro-mfarias.github.io/projeto-attack-on-titan/" target="_blank">
-                        <img src={attackTitan} alt="Projeto attack on titan" />
-                        <h3>Attack On Titan</h3>
+                    <a href="https://to-do-list-zeta-roan.vercel.app/" target="_blank">
+                        <img src={todo} alt="Projeto To-do-List" />
+                        <h3>To Do List</h3>
                         <div className="info-project">
-                            <IoLogoJavascript className='icon' />
-                            <FaHtml5 className='icon' />
+                            <FaReact className='icon' />
+                            <BiLogoTypescript className='icon' />
                             <FaCss3Alt className='icon' />
                             <p>🔗Ver no Github Pages</p>
                         </div>

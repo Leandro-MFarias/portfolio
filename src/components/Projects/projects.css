@@ -14,7 +14,7 @@
 
 .container-projects {
     display: grid;
-    grid-template-columns: repeat(2, 680px);
+    grid-template-columns: repeat(2, 660px);
     justify-content: center;
     column-gap: 10rem;
     row-gap: 4rem;
